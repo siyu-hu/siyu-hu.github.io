@@ -5,7 +5,7 @@ lang: zh
 categories: [AI, Product]
 tags: [agentic-systems, community, platform-design, product-thinking]
 image:
-  path: /assets/img/posts/agentic-community-as-service/cover.png
+  path: /assets/img/posts/agentic-community-as-service/cover.jpg
   alt: "Agentic Community as Service 文章封面"
 description: >
   为什么 Agent 时代真正需要的，不是更多讨论 Agent 的地方，而是一个能稳定交付可复制结果的平台。

@@ -5,7 +5,7 @@ lang: en
 categories: [AI, Product]
 tags: [agentic-systems, community, platform-design, product-thinking]
 image:
-  path: /assets/img/posts/agentic-community-as-service/cover.png
+  path: /assets/img/posts/agentic-community-as-service/cover.jpg
   alt: "Editorial cover for Agentic Community as Service"
 description: >
   Why the agent era needs platforms that deliver reusable results, not just
